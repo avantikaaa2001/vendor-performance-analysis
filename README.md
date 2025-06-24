@@ -95,10 +95,3 @@ To build an interactive Power BI dashboard that:
 ### 📊 Power BI Dashboard
 ![Retail Vendor Power BI Dashboard](screenshots/dashboard.png)
 
-*Alt text: Interactive dashboard showing vendor analysis with KPIs, bar charts, and scatter plots.*
-
----
-
-## 📁 Folder Structure
-
-
