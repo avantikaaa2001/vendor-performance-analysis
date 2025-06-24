@@ -93,5 +93,5 @@ To build an interactive Power BI dashboard that:
 ## 🖼️ Screenshots
 
 ### 📊 Power BI Dashboard
-![Retail Vendor Power BI Dashboard](screenshots/dashboard.png)
+![Retail Vendor Power BI Dashboard](https://github.com/avantikaaa2001/vendor-performance-analysis/blob/main/Snapshot%20of%20dashboard.png)
 
